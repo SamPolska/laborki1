@@ -25,7 +25,7 @@ int szukaj(int szukana, int tablica[])
 	{
 		if (szukana == tablica[i]) return i;
 
-	}
+	}/
 	return -2;
 }
 int szukaj_wsk(int szukana, int *tablica)
